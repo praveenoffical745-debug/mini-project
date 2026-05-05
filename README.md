@@ -84,7 +84,7 @@ Female
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/siddhik-reddy/Age-and-Gender-Detection.git
+git clone https://github.com/praveenoffical745-debug/mini-project.git
 cd Age-and-Gender-Detection
 ```
 
